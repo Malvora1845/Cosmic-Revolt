@@ -250,7 +250,7 @@
     "setup": false,
     "name": "Bride",
     "team": "outsider",
-    "ability": "You start by choosing a player. If a Townsfolk, you are now "married" to that player. If either one of you dies, the other dies as well. During the day, you may "divorce" that player at any time, causing them to die at night (you survive)."
+    "ability": "You start by choosing a player. If a Townsfolk, you are now 'married' to that player. If either one of you dies, the other dies as well. During the day, you may 'divorce' that player at any time, causing them to die at night (you survive)."
   },
   {
     "id": "Grumpus",
