@@ -328,7 +328,7 @@
     "setup": false,
     "name": "Cloak",
     "team": "minion",
-    "ability": "You start by choosing 2 players (not the Demon): they survive their first execution. If one of these players is executed, you wake at night and choose a player: they die."
+    "ability": "Each night, choose a player: you learn how many reminder tokens are next to that player (you do not learn which) and may move 1 reminder token from that player to another. Character-exclusive tokens instead get removed."
   },
   {
     "id": "void",
