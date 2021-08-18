@@ -253,7 +253,7 @@
     "ability": "You start by choosing a player. If a Townsfolk, you are now 'married' to that player. If either one of you dies, the other dies as well. During the day, you may 'divorce' that player at any time, causing them to die at night (you survive)."
   },
   {
-    "id": "Grumpus",
+    "id": "grumpus",
     "image": "https://raw.githubusercontent.com/Malvora1845/Cosmic-Revolt/main/Grumpus.png",
     "edition": "custom",
     "firstNight": 0,
@@ -268,7 +268,7 @@
     "ability": "Whenever you are nominated, you must nominate someone: that player is drunk until dawn. You may not nominate without being nominated."
   },
   {
-    "id": "Grudge",
+    "id": "grudge",
     "image": "https://raw.githubusercontent.com/Malvora1845/Cosmic-Revolt/main/Grudge.png",
     "edition": "custom",
     "firstNight": 12,
@@ -326,7 +326,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "name": "Vacuum",
+    "name": "Cloak",
     "team": "minion",
     "ability": "You start by choosing 2 players (not the Demon): they survive their first execution. If one of these players is executed, you wake at night and choose a player: they die."
   },
